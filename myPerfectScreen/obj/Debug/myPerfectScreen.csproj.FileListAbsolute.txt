@@ -1,0 +1,9 @@
+C:\Users\205370687\source\repos\myPerfectScreen\myPerfectScreen\bin\Debug\myPerfectScreen.exe.config
+C:\Users\205370687\source\repos\myPerfectScreen\myPerfectScreen\bin\Debug\myPerfectScreen.exe
+C:\Users\205370687\source\repos\myPerfectScreen\myPerfectScreen\bin\Debug\myPerfectScreen.pdb
+C:\Users\205370687\source\repos\myPerfectScreen\myPerfectScreen\obj\Debug\myPerfectScreen.csprojAssemblyReference.cache
+C:\Users\205370687\source\repos\myPerfectScreen\myPerfectScreen\obj\Debug\myPerfectScreen.Form1.resources
+C:\Users\205370687\source\repos\myPerfectScreen\myPerfectScreen\obj\Debug\myPerfectScreen.Properties.Resources.resources
+C:\Users\205370687\source\repos\myPerfectScreen\myPerfectScreen\obj\Debug\myPerfectScreen.csproj.GenerateResource.cache
+C:\Users\205370687\source\repos\myPerfectScreen\myPerfectScreen\obj\Debug\myPerfectScreen.exe
+C:\Users\205370687\source\repos\myPerfectScreen\myPerfectScreen\obj\Debug\myPerfectScreen.pdb
